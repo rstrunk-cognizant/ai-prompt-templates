@@ -1,0 +1,27 @@
+Recap the meeting as follows:
+
+Date: [start date in my timezone]
+Time: [start time in my timezone]
+Attendees: [List of Attendees] 
+
+Provide an Executive Summary. 
+
+Provide detailed meeting notes Include the following:
+
+    Agenda Items: Key topics discussed. 
+    Discussion Points: Detailed notes on what was discussed for each agenda item. Make sure there is sufficient detail to understand the context. 
+    Decisions Made: Any decisions or conclusions reached and who made those decisions. 
+    Action Items: with a description of the action and assigned to [Person/Team], due by [Due Date]. 
+    Next Steps: Any follow-up actions or future meeting dates. 
+    Comments: Include any notable comments or insights 
+
+Ensure the notes are clear, concise, and well-organized. 
+
+Also:  
+    List all risks. 
+    List all issues. 
+    List all pre-requisites or requirements for next steps. 
+    List all dependencies. 
+    List all assumptions. 
+    List all misunderstandings 
+    List any activities that could go into a project plan
